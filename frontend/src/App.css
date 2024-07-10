@@ -1,0 +1,22 @@
+@font-face {
+    font-family: roboto-bold;
+    src: url(/fonts/roboto-Bold.ttf);
+}
+@font-face {
+    font-family: roboto-light;
+    src: url(/fonts/roboto-Light.ttf);
+}
+@font-face {
+    font-family: roboto-regular;
+    src: url(/fonts/roboto-Regular.ttf);
+}
+
+@font-face {
+    font-family: lora-regular;
+    src: url(fonts\Lora\Lora-Regular.ttf);
+}
+@font-face {
+    font-family: lora-bold;
+    src: url(fonts\Lora\Lora-bold.ttf);
+}
+
