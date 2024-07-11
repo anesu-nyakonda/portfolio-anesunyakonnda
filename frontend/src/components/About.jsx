@@ -49,9 +49,8 @@ function About() {
                 I am a freelance web and game developer in Zimbabwe. I develop
                 functional and beautiful web applications.My freelance web
                 development roots are in the MERN stack , of which I'm self
-                taught.I help people like you bring their ideas into
-                life.Sometimes i make games. I am also passionate about music,
-                you{" "}
+                taught.I help people like you bring their ideas into life. I am
+                also passionate about music, you{" "}
                 <span>
                   {" "}
                   <img
